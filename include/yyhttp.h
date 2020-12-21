@@ -6,7 +6,6 @@
 #include <unistd.h>
 #include <sys/stat.h>
 #include <fcntl.h>
-#include <strings.h>
 
 #define SERVER_STRING "Server: jdbhttpd/0.1.0\r\n"
 

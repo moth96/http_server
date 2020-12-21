@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <errno.h>
 #include <string.h>
+#include <strings.h>
 #include <netinet/in.h>     //htons()
 #include <bits/socket.h>    //sockaddr
 #include <arpa/inet.h>      //ip地址格式转换
